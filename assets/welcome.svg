@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="450" viewBox="0 0 1280 450" role="img" aria-labelledby="title desc">
+  <title id="title">Welcome to Soham's GitHub</title>
+  <desc id="desc">Blue dunes beneath a pale blue sky. Soham Kulkarni, IT student at PCCOE, Pune.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#C1E8FF"/><stop offset="1" stop-color="#7DA0CA"/></linearGradient>
+    <linearGradient id="dune" x2="0" y2="1"><stop stop-color="#052659"/><stop offset="1" stop-color="#021024"/></linearGradient>
+  </defs>
+  <rect width="1280" height="450" rx="18" fill="url(#sky)"/>
+  <circle cx="1090" cy="92" r="44" fill="#E2F4FF" opacity=".45"/>
+  <g fill="#052659" text-anchor="middle" font-family="Consolas, 'Courier New', monospace">
+    <text x="640" y="94" font-size="16" letter-spacing="5">SOHAM0007-CODER</text>
+    <text x="640" y="166" font-size="46" font-weight="bold">Welcome to Soham's GitHub</text>
+    <text x="640" y="210" font-size="21">Soham Kulkarni · IT Student · PCCOE, Pune</text>
+    <text x="640" y="258" font-size="29">&lt; / &gt;</text>
+  </g>
+  <path d="M0 333 Q140 248 270 325 T560 333 T850 322 T1280 312 V450 H0Z" fill="#5483B3"/>
+  <path d="M0 360 Q190 301 350 368 T690 347 T1000 363 T1280 338 V450 H0Z" fill="#0C3D6D"/>
+  <path d="M760 344 Q630 368 690 384 T555 423 L460 450 H771 Q622 418 758 400 T760 344Z" fill="#C1E8FF"/>
+  <path d="M0 323 Q148 292 302 383 Q385 427 557 450 H0Z" fill="url(#dune)"/>
+  <path d="M1280 315 Q1118 358 958 374 Q820 390 754 450 H1280Z" fill="url(#dune)"/>
+</svg>
